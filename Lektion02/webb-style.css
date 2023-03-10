@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Genos:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+h1{color: rgb(10, 148, 10); font-family: Genos; text-align: center; font-weight: bold;}
+
+p{color: rgb(237, 34, 34); font-family: 'Times New Roman', Times, serif; font-size: 1.2em;}
+
+a{font-size: 150%; color: blue;}
+
+nav a{font-size: 200%; text-decoration: none; color: red;}
+
+nav a:visited{color: purple;}
+
+nav a:hover{color: yellow;}
